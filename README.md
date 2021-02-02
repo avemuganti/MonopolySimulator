@@ -14,4 +14,4 @@ There are three return types for the program. They each return different statist
 
   - Return type 1 gives average break-even time for each property, not counting costs for other properties in the color group. 
   - Return type 2 also gives average break-even time for each property. This includes costs for other properties in the color group.
-  - Return type 3 yields the average income per turn.
+  - Return type 3 yields the average income per turn for each property.
