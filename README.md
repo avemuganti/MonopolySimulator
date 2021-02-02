@@ -15,3 +15,7 @@ There are three return types for the program. They each return different statist
   - Return type 1 gives average break-even time for each property, not counting costs for other properties in the color group. 
   - Return type 2 also gives average break-even time for each property. This includes costs for other properties in the color group.
   - Return type 3 yields the average income per turn for each property.
+  
+Note that this is a simulation relying on pseudo-randomness, meaning that each run of the program will vary slightly in its results. 
+
+Statistical analysis of the results can be found in the Monopoly Analysis.xlsx file. This analysis is not complete at the moment, and data collection is ongoing.
